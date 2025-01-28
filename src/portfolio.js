@@ -39,30 +39,6 @@ const projects = [
     sourceCode: 'https://github.com/Gargantua-Saichania-JSD8/GenAIDV1',
     livePreview: 'https://gen-aidv-1-deploy-q37l.vercel.app/',
   }
-  // {
-  //   name: 'Resource Planner',
-  //   description:
-  //     'Resource Planner is able to distrute the current resource including human resource,time and budget in one company in order to help user to manahe their projects',
-  //   stack: ['html-css-javascript', 'sequelize', 'React'],
-  //   sourceCode: 'https://github.com/stone-com/Resource-Planner',
-  //   livePreview: 'https://resource-planner-group2.herokuapp.com/',
-  // },
-  // {
-  //   name: 'GameStoreData(back end)',
-  //   description:
-  //     'GameStoreData is able to let user retrieve the game from database based on its year and category',
-  //   stack: ['Java 8', 'MySQL', 'React'],
-  //   sourceCode: 'https://github.com/stone-com/Resource-Planner',
-    
-  // },
-  // {
-  //   name: 'Music Store(back end)',
-  //   description:
-  //     'MusicStore is able to direct user to the desired page based on its endpoints by track, album,artist and label',
-  //   stack: ['html-css-javascript', 'sequelize', 'React'],
-  //   sourceCode: 'https://github.com/Morganbb104/M7-project2-musictore-recommendations-Huang_Chengchien',
-  //   livePreview: 'https://cheng32-musicstore-catalog.herokuapp.com/track',
-  // },
 ]
 
 const skills = [
