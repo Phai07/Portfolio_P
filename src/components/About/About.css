@@ -35,3 +35,7 @@
     margin-top: 2em;
   }
 }
+
+.about__photo {
+  border-radius: 10%; 
+}
