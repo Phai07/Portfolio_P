@@ -62,7 +62,7 @@ const skills = [
   'DBeaver',
   'Postman',
   'Vercel',
-  'MongoDBCompass,',
+  'MongoDBCompass',
   'Docker',
 ]
 
