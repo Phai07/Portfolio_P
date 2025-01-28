@@ -6,7 +6,7 @@ const Footer = () => (
       href='https://github.com/Morganbb104/HW_20_Portfolio_withReact'
       className='link footer__link'
     >
-      Created By Nattawut Wanphen
+       Copyright Nattawut Wanphen
     </a>
   </footer>
 )

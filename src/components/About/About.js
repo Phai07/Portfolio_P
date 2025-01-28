@@ -9,7 +9,7 @@ const About = () => {
   return (
     <div className='about center'>
       {photo && (
-       <img className="about__photo" height="200px" alt="Avatar placeholder" src={photo} />
+      <img className="about__photo" height="200px" alt="Avatar placeholder" src={photo} />
       )}
       {name && (
         <h1>
@@ -30,7 +30,7 @@ const About = () => {
         )}
 
         {social && (
-          <>
+          <div>
             {social.github && (
               <a
                 href={social.github}
@@ -50,7 +50,7 @@ const About = () => {
                 <LinkedInIcon />
               </a>
             )}
-          </>
+          </div>
         )}
       </div>
     </div>

@@ -38,7 +38,7 @@ const projects = [
     stack: ['Tailwind CSS','Vite','React js','Express','Nodejs', 'MongoDB','Coulddinary'],
     sourceCode: 'https://github.com/Gargantua-Saichania-JSD8/GenAIDV1',
     livePreview: 'https://gen-aidv-1-deploy-q37l.vercel.app/',
-  },
+  }
   // {
   //   name: 'Resource Planner',
   //   description:
@@ -70,7 +70,7 @@ const skills = [
   // if there are no skills, Skills section won't show up
   'HTML',
   'CSS',
- ' Tailwind CSS',
+  ' Tailwind CSS',
   'JavaScript',
   'TypeScript',
   'Next.js',
