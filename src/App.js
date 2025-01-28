@@ -16,12 +16,12 @@ const App = () => {
     <div id='top' className={`${themeName} app`}>
       <Header />
 
-      <div>
+      <main>
         <About />
         <Projects />
         <Skills />
         <Contact />
-      </div>
+      </main>
 
       <ScrollToTop />
       <Footer />
