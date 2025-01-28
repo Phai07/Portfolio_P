@@ -6,7 +6,7 @@ const Footer = () => (
       href='https://github.com/Phai07?tab=repositories'
       className='link footer__link'
     >
-       Copyright Nattawut Wanphen
+      Copyright Nattawut Wanphen
     </a>
   </footer>
 )
